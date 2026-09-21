@@ -26,7 +26,6 @@
 - [ ] Confirm a basic Python client script can read/write to it over Modbus TCP
 - [ ] **Deliverable:** screen recording showing the simulated PLC responding to a read/write request
 
-**If stuck:** send the exact error message, not "it's not working."
 
 ---
 
@@ -54,6 +53,7 @@
 
 
 ---
+**If stuck:** send the exact error message, not "it's not working."
 
 ## Friday Meeting
 - Everyone presents their own deliverable, in their own words, no reading off slides
