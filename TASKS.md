@@ -1,6 +1,6 @@
 # AEGIS-Sec — Week 1 Task Board (FYP-1 Prework Sprint)
 
-**Sprint window:** [insert start date] → [insert Friday date]
+
 **Rule:** No task depends on anyone else finishing first. Everyone works in parallel.
 **Check-in:** Post your deliverable here (or in group chat) by Friday EOD. No separate "status update" meeting needed — the deliverable *is* the status update.
 **Blocked?** Post the *exact* error message or *exact* question in the group chat. "It's not working" / "idk how" is not a valid update and won't get a response until it's specific.
@@ -8,7 +8,7 @@
 ---
 
 ## Ayesha — Model Validation (Core Technical Risk)
-**Why this matters:** Everything else depends on whether an 8B-14B local model can produce usable structured commands. If it can't, the whole architecture needs rethinking — so this gets validated first, before anyone builds on top of it.
+**Why this matters:** Everything else depends on whether an 8B-14B local model can produce usable structured commands. If it can't, the whole architecture needs rethinking — so this gets validated first.
 
 - [ ] Install Ollama, pull `llama3.1:8b` and `qwen2.5-coder:14b`
 - [ ] Build Pydantic schema for command structure
@@ -52,7 +52,6 @@
   > "If a professor asked 'why does this paper matter for OUR project specifically,' what would you say in 2-3 sentences? What breaks in our argument if this paper were removed?"
 - [ ] **Deliverable:** 5 short write-ups (not paper summaries — reasoning about relevance)
 
-**Be ready to defend your weakest write-up live in the Friday meeting — one follow-up question will be asked on the spot.**
 
 ---
 
