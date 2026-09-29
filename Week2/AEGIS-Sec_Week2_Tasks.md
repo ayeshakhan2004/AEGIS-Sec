@@ -6,14 +6,6 @@
 
 ---
 
-## First — Everyone, Together (do this before anything else)
-
-- [ ] Agree on the exact fields in a "command" (what a Planner output looks like — e.g. action type, address, value, target)
-- [ ] Write it down in one shared doc so everyone builds against the same thing
-- [ ] Ayesha proposes it, Maryum and Amaan confirm it has everything they need
-
----
-
 ## Ayesha — Finish Model Pick + Build the Planner
 
 **Why this matters:** The Planner is the part that actually creates the commands. Nothing downstream works without it.
@@ -35,7 +27,7 @@
 
 ---
 
-## Amaan — Build Safety-Critic v1
+## Damil — Build Safety-Critic v1
 
 **Why this matters:** This turns your safe/unsafe examples from last week into an actual working check.
 
@@ -46,7 +38,7 @@
 
 ---
 
-## Damil — Write Related Work Section
+## Aman — Write Related Work Section
 
 **Why this matters:** This turns last week's reasoning into an actual report section.
 
