@@ -1,2 +1,3 @@
-# AEGIS-Sec
-A Reliability-Hardened Multi-Agent Architecture for Autonomous Security Testing 
+# GOVERNOR-OT 
+
+Deterministic Safety Governance for Autonomous AI Agents in Industrial (OT) Networks
